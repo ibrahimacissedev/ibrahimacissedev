@@ -17,7 +17,7 @@ En parallèle de ma formation, je m'auto-forme régulièrement pour renforcer me
 ### [Site Vitrine Photographe](https://ibrahimacisse10.github.io/AzerType/)
 Un site responsive pour une photographe, mettant en avant son portfolio et ses services.
 
-### [Appli d'Entraînement au Clavier](lien-vers-le-repository)
+### [Appli d'Entraînement au Clavier](https://ibrahimacissedev.github.io/AzerType/)
 Une application interactive pour améliorer la vitesse de frappe au clavier avec un score basé sur les fautes et un partage possible par mail.
 
 Ces projets sont des exemples de mon travail. De nombreux autres projets sont en cours e
