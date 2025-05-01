@@ -14,13 +14,13 @@ Autres : Responsive design, APIs RESTful, bases de données
 En parallèle de ma formation, je m'auto-forme régulièrement pour renforcer mes connaissances et mieux comprendre les exigences du secteur du développement.
 
 ## 🚀 Mes Projets
-### [Site Vitrine Photographe](https://ibrahimacissedev.github.io/monPremierProgramme/)
+### [Robie-Lens-Photographie](https://ibrahimacissedev.github.io/monPremierProgramme/)
 Un site responsive pour une photographe, mettant en avant son portfolio et ses services.
 
-### [Appli d'Entraînement au Clavier](https://ibrahimacissedev.github.io/AzerType/)
-Une application interactive pour améliorer la vitesse de frappe au clavier avec un score basé sur les fautes et un partage possible par mail.
+### [AzerType](https://ibrahimacissedev.github.io/AzerType/)
+Une application interactive pour améliorer la vitesse de frappe au clavier avec un score basé sur les fautes et un partage possible du score par mail.
 
-Ces projets sont des exemples de mon travail. De nombreux autres projets sont en cours e
+Ces projets sont des exemples de mon travail. De nombreux autres projets sont en cours !
 ## 💡 À propos de moi
 Sérieux, curieux et motivé, je suis prêt à m'investir pleinement dans une équipe pour contribuer à des projets concrets et monter rapidement en compétences. Mon objectif est de participer à des projets innovants et enrichissants, et d'acquérir une expérience significative en entreprise.
 
