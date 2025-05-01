@@ -33,7 +33,7 @@ Rythme : 1 semaine en formation, 2 semaines en entreprise
 ## 📫 Me contacter
 📧 ibrahimacisse.dev@gmail.com
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ibrahimacisse10)
+🔗 [LinkedIn](www.linkedin.com/in/ibrahima-cisse10)
 
 
 Merci d’avoir visité mon profil ! 😊
