@@ -14,7 +14,7 @@ Autres : Responsive design, APIs RESTful, bases de données
 En parallèle de ma formation, je m'auto-forme régulièrement pour renforcer mes connaissances et mieux comprendre les exigences du secteur du développement.
 
 ## 🚀 Mes Projets
-### [Site Vitrine Photographe](lien-vers-le-repository-ou-le-site)
+### [Site Vitrine Photographe](https://ibrahimacisse10.github.io/AzerType/)
 Un site responsive pour une photographe, mettant en avant son portfolio et ses services.
 
 ### [Appli d'Entraînement au Clavier](lien-vers-le-repository)
