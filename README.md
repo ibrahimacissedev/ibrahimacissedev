@@ -8,9 +8,6 @@ Back-end : PHP, MySQL, Node.js, Express
 
 Versioning : Git, GitHub
 
-## 📚 Ma Formation et Mon Autonomie
-En parallèle de ma formation, je m'auto-forme régulièrement pour renforcer mes connaissances et mieux comprendre les exigences du secteur du développement.
-
 ## 🚀 Mes Projets
 ### [Robbie-Lens-Photographie](https://ibrahimacissedev.github.io/monPremierProgramme/)
 Un site responsive pour une photographe, mettant en avant son portfolio et ses services.
