@@ -8,8 +8,6 @@ Back-end : PHP, MySQL, Node.js, Express
 
 Versioning : Git, GitHub
 
-Autres : Responsive design, APIs RESTful, bases de données
-
 ## 📚 Ma Formation et Mon Autonomie
 En parallèle de ma formation, je m'auto-forme régulièrement pour renforcer mes connaissances et mieux comprendre les exigences du secteur du développement.
 
