@@ -4,7 +4,7 @@ Je suis actuellement à la recherche d'une alternance de 12 mois dans le cadre d
 ## 🛠️ Compétences
 Front-end : HTML5, CSS3, JavaScript, React
 
-Back-end : PHP, MySQL, Node.js, Express
+Back-end : MySQL, Node.js, Express
 
 Versioning : Git, GitHub
 
