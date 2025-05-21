@@ -1,8 +1,8 @@
 ## 👨‍💻 Ibrahima Cisse | Développeur Web Full Stack
-Je suis actuellement à la recherche d'une alternance de 12 mois dans le cadre de ma formation de Concepteur Développeur d'Applications.
+Je suis actuellement à la recherche d'une alternance de 12 à 24 mois dans le cadre de ma formation de Concepteur Développeur d'Applications.
 
 ## 🛠️ Compétences
-Front-end : HTML5, CSS3, JavaScript, React
+Front-end : HTML5, CSS3, JavaScript, React, TypeScript
 
 Back-end : MySQL, Node.js, Express
 
